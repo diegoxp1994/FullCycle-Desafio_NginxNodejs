@@ -1,3 +1,4 @@
 # FullCycle-Desafio_NginxNodejs
 
-teste
+Comando: docker-compose up -d --build
+Link: http://localhost:8080/
